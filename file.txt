@@ -1,1 +1,2 @@
 THis is new file and ready to use
+new line to create conflict from main branch
